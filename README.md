@@ -14,7 +14,7 @@ Soy un apasionado Desarrollador Backend especializado. Tengo un sólido dominio 
 
 ## 🔧 Technologies & Tools
 - **Frontend:** JavaScript, React
-- **Backend:** NodeJS, NestJS, Express
+- **Backend:** NodeJS, NestJS, Express, TypeORM
 - **Databases:** PostgreSQL
 - **Languages:** English (B2), Portuguese (B1)
 
