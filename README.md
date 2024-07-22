@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Johan Estiven
 
-I'm a passionate Full Stack Developer specialized in backend technologies. I have a strong command of JavaScript, NestJS, React, NodeJS, and PostgreSQL. Additionally, I have a background in sales promotion, which has significantly enhanced my communication skills and ability to handle high-pressure situations.
+I'm a passionate Backend Developer specialized. I have a strong command of JavaScript, NestJS, React, NodeJS, and PostgreSQL. Additionally, I have a background in sales promotion, which has significantly enhanced my communication skills and ability to handle high-pressure situations.
 
 # 👋 ¡Hola, soy Johan Estiven
 
@@ -8,7 +8,7 @@ Soy un apasionado Desarrollador Backend especializado. Tengo un sólido dominio 
 
 ## 🔧 Tecnologías y Herramientas
 - **Frontend:** JavaScript, React
-- **Backend:** NodeJS, NestJS, Express
+- **Backend:** NodeJS, NestJS, Express, TypeORM
 - **Bases de Datos:** PostgreSQL
 - **Idiomas:** Inglés (B2), Portugués (B1)
 
