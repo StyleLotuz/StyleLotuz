@@ -19,7 +19,7 @@ Soy un apasionado Desarrollador Backend especializado. Tengo un sólido dominio 
 - **Languages:** English (B2), Portuguese (B1)
 
 ## 📫 Contact Me
-- **Email:** jplayjb@gmail.com
+- **Email:** jplayjb@gmail.com jmusicjb@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/johan-estiven-payan-ortiz-7238b2213/
 
 ## 🌟 About Me
